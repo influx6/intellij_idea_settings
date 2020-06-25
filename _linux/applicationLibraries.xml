@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="lib">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Devlabs/src/github.com/JSchillinger/SlyAWS/SlyAWS/WebContent/WEB-INF/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
